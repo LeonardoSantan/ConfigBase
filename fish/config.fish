@@ -47,3 +47,4 @@ set -Ux OPENSSL_INCLUDE_DIR /usr/include
 alias ll="ls -l --color=auto"
 alias la="ls -la --color=auto"
 
+alias studio="~/opt/android-studio/bin/studio.sh"
